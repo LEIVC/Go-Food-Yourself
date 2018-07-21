@@ -9,18 +9,18 @@
 *Users can dynamically add to the database if a listed item is not shown<br>
 ### Design Process<br>
 *Using categorical lists for ingredients<br>
-* Once the list is created from user selection the many to many database relation <br> checks recipes that fit your ingredients<br>
+*Once the list is created from user selection the many to many database relation <br> checks recipes that fit your ingredients<br>
 *Used a Post method on a separate page to add recipes<br>
 
 ### Technologies Used<br>
-  *Many-to-many relationships<br>
-  *WayPoint<br>
-  *Animate CSS<br>
+*Many-to-many relationships<br>
+*WayPoint<br>
+*Animate CSS<br>
 ### Future Development<br>
-  *Dietary restrictions<br>
-  *Shopping list generated<br>
-  *Delivery of missing ingredients<br>
-  *User authentication to save recipes.<br>
+*Dietary restrictions<br>
+*Shopping list generated<br>
+*Delivery of missing ingredients<br>
+*User authentication to save recipes.<br>
 
 
 
