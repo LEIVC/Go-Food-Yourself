@@ -1,5 +1,4 @@
-# Go-Food-Yourself
-#YearBook<br> 
+# Yearbook()<br> 
 ## *Staying connected after graduation*
 [Here is a link to the website](herokulinkhere.com)
 In this app we created a website allowing for coding bootcamp students to stay connected well after graduation. We have allowed for several features in its functionality including:
