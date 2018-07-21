@@ -1,8 +1,8 @@
 # Go-Food-Yourself<br> 
 ## *Create a dish based off of what you have!*
 ### Motivation:
-*The classic scenario of  being left with random ingredients and no discernible outcome for a meal.<br>This can have an adverse effect on one’s nutrition & meal quality.
-*Roughly one third of the food produced in the world for human consumption every year <br>— approximately 1.3 billion tons — gets lost or wasted.<br>
+*The classic scenario of  being left with random ingredients and no discernible outcome for a meal.<br>This can have an adverse effect on one’s nutrition & meal quality.<br>
+*Roughly one third of the food produced in the world for human consumption every year— approximately 1.3 billion tons — gets lost or wasted.<br>
 ### Concept
 *Create an app that generates recipes based off selections & inputs.<br>
 *Generated lists for ingredients<br>
