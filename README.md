@@ -6,7 +6,7 @@ In this app we created a website allowing for coding bootcamp students to stay c
 1. Users to create a login and password 
 2. Select preferences such as: 
 ..*Seeking a job.
-..*Coding language preference.
+..*Coding language preference. ..
 3.User profile page with custom preferences.
 4. Displays jobs available with set presences from user profile. 
 5. Aggregate page of all users’ profiles
